@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 it's a long way!
 to find you ,my friends!
 oh£¬i'll tell you somethings when i see you again!
+=======
+enjoy what you have!
+hold on the chances.
+>>>>>>> ba8bf739df06cb57fcf8bef5f45c93b4f1710ea1
